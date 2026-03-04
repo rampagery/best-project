@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header
+{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+body{
+    background-image: url('form.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: aliceblue;
+    color: black;
+}
+table{
+    margin: 50px;
+    padding: 100px;
+    border-color: solid white;
+    width: 600px;
+    height: 500px;
+}
+

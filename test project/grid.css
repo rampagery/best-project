@@ -1,0 +1,64 @@
+body{
+    padding: 20px;
+    padding-left: 90px;
+    background-color: black;
+}
+.head{
+    padding-bottom: 40px;
+    color: whitesmoke;
+}
+.p{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 120px;
+    grid-gap: 200px;
+}
+.c{
+    padding: 40px;
+    border-radius: 30px;
+    width: 160px;
+    background-color: black;
+    color: aliceblue;
+}
+#one{
+    border-left: 5px solid red;
+}
+#two{
+    border-left: 5px solid green;
+}
+#three{
+    border-left: 5px solid blue;
+}
+.content{
+    margin-top: 60px;
+    color: rgb(133, 174, 220);
+    background-color: black;
+    border: 2px solid rgba(128,128,128,0.151);
+    background-color: rgba(112, 128, 144,0.111);
+    border-radius: 40px;
+    padding-left: 20px;
+    width: 1000px;
+}
+.chead{
+    display: grid;
+    grid-template-columns: 300px 300px 210px 200px;
+    padding: 20px;
+    border-bottom: 2px solid grey;
+}
+.emp1{
+    display: grid;
+    grid-template-columns: 300px 300px 210px 200px;
+    padding: 20px;
+    border-bottom: 2px solid grey;
+}
+.emp2{
+    display: grid;
+    grid-template-columns: 300px 300px 210px 200px;
+    padding: 20px;
+    border-bottom: 2px solid grey;
+}
+.emp3{
+    display: grid;
+    grid-template-columns: 300px 300px 210px 200px;
+    padding: 20px;
+}
